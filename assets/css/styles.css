@@ -1,0 +1,42 @@
+body, h1 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 25px;
+    font-size: 15px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 2.5px;
+    color: #fff;
+    font-size: 8px;
+    cursor: pointer;
+}
+
+.primary-btn {
+    background-color: #3498db;
+}
+
+.secondary-btn {
+    background-color: #2ecc71;
+}
+
+.success-btn {
+    background-color: #27ae60;
+}
+
+.danger-btn {
+    background-color: #e74c3c;
+}
+
+.h1{
+    
+}
